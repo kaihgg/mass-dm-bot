@@ -1,4 +1,4 @@
-
+# made by daddy kaih !
 MassDM v2, a bot to send mass DM's to members of a Discord server.
 
 
@@ -30,5 +30,4 @@ I am not responsible for anything you do with this bot.
 
 Wanna donate?
 
-Hit me up on V3rmillion for my crypto/paypal address.
-https://v3rmillion.net/member.php?action=profile&uid=416339
+
